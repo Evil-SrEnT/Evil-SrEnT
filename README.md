@@ -1,5 +1,5 @@
 # Evil_SrEnT
-<script src="workspace.a4362daf.js" type="text/javascript">
+<body> <script src="workspace.a4362daf.js" type="text/javascript">
 
 </script> <audio controls="" preload="" loop=""> 
 
@@ -10,3 +10,4 @@
 </script>
 
 <canvas width="362" height="451" style="width: 725px; height: 903px; display: block;" class="cue-in"></canvas>
+</body>
